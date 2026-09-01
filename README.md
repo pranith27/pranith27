@@ -12,25 +12,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Master's student in Computer Software Engineering** at **San José State University** and a **Software Development Engineer** with a passion for building robust, scalable systems. 
 
 My expertise spans backend engineering, distributed systems, cloud infrastructure, and machine learning. I believe the best software isn't just functional—it's elegant, maintainable, and solves real problems with precision.
 
-- 🔭 **Currently working on:** Scalable Java microservices & distributed systems
-- 🌱 **Learning:** Advanced System Design & Large Language Models
-- 👯 **Looking to collaborate on:** Open-source backend projects
-- 💬 **Ask me about:** Spring Boot, Distributed Systems, or Formula 1
-- ⚡ **Fun fact:** I'm a huge Formula 1 enthusiast and Max Verstappen fan
+- Currently working on: Scalable Java microservices & distributed systems
+- Learning: Advanced System Design & Large Language Models
+- Looking to collaborate on: Open-source backend projects
+- Ask me about: Spring Boot, Distributed Systems, or Formula 1
+- Fun fact: I'm a huge Formula 1 enthusiast and Max Verstappen fan
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🚀 Backend Frameworks
+**Backend Frameworks**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -50,7 +50,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🎨 Frontend Development
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -58,7 +58,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases & Storage
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -66,7 +66,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,13 +75,13 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📊 Data & Analytics
+**Data & Analytics**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🛠️ Developer Tools
+**Developer Tools**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -92,17 +92,17 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Software Development Engineer Intern
-**UST** | *Feb 2026 - Jun 2026*
+**Software Development Engineer Intern**
+UST | Feb 2026 - Jun 2026
 - Developed RESTful Java Spring Boot microservices and React frontend for healthcare billing system
 - Optimized complex SQL queries and implemented asynchronous data processing, improving scalability and response times by 40%
 - Delivered enterprise-grade features across full SDLC using Agile methodologies
 - Collaborated with cross-functional teams to design secure REST APIs with automated testing
 
-### Software Engineer Intern
-**Aster Digital Health, Aster DM Healthcare** | *Jul 2025 - Feb 2026*
+**Software Engineer Intern**
+Aster Digital Health, Aster DM Healthcare | Jul 2025 - Feb 2026
 - Designed scalable RESTful APIs and microservices using Python (FastAPI) and Node.js, serving 10,000+ daily requests
 - Built interactive React.js dashboards for real-time patient data visualization, improving decision-making efficiency by 25%
 - Automated CI/CD pipelines using Docker, GitHub Actions, and AWS, reducing deployment time by 40%
@@ -110,36 +110,36 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 🎓 Education
+## Education
 
-### San José State University
-**M.S. Computer Software Engineering** | *Aug 2026 - May 2028*
-- **Relevant Coursework:** Distributed Systems, Machine Learning, Data Mining, Enterprise Software Design
+**San José State University**
+M.S. Computer Software Engineering | Aug 2026 - May 2028
+- Relevant Coursework: Distributed Systems, Machine Learning, Data Mining, Enterprise Software Design
 
-### Lovely Professional University
-**B.Tech Computer Science** | *GPA: 3.1/4.0* | *Aug 2021 - May 2025*
-- **Relevant Coursework:** Data Structures & Algorithms, Databases, Object-Oriented Programming, Web Development
+**Lovely Professional University**
+B.Tech Computer Science | GPA: 3.1/4.0 | Aug 2021 - May 2025
+- Relevant Coursework: Data Structures & Algorithms, Databases, Object-Oriented Programming, Web Development
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### Distributed Key-Value Store
-**Go + HashiCorp Raft** | *Jan 2025 - Apr 2024*
+**Distributed Key-Value Store**
+Go + HashiCorp Raft | Jan 2025 - Apr 2024
 - Built fault-tolerant distributed KV store implementing Raft Consensus Algorithm for leader election and log replication
 - Designed gRPC/HTTP APIs with TTL support and BoltDB persistence for strong consistency
 - Containerized with Docker with sub-5-second recovery during node failures
 - Implemented snapshotting and log compaction for efficient storage management
 
-### Fine-Tuned LLM Classifier
-**Python + LoRA + Hugging Face**
+**Fine-Tuned LLM Classifier**
+Python + LoRA + Hugging Face
 - Fine-tuned Llama 3.2 using LoRA/QLoRA techniques achieving 90% cost reduction
 - Deployed Gradio web app for real-time inference with 90%+ accuracy on held-out test sets
 - Packaged with Docker and deployed to AWS/GCP demonstrating end-to-end MLOps workflow
 - Built interactive data upload and instant classification interface
 
-### Healthcare Billing Platform
-**Java + Spring Boot + React + SQL**
+**Healthcare Billing Platform**
+Java + Spring Boot + React + SQL
 - Enterprise healthcare software with backend services and full-stack features
 - Implemented modular backend components with optimized database queries
 - Built secure REST APIs with automated testing and JWT authentication
@@ -147,18 +147,18 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- **AWS Certified Cloud Practitioner** - Amazon Web Services
-- **Microsoft Azure Fundamentals (AZ-900)** - Microsoft
-- **Oracle Certified Professional Java SE 17 Developer** - Oracle
-- **Building with the Claude API** - Anthropic
-- **Claude in Amazon Bedrock** - Anthropic
-- **Data Structures and Algorithms** - GeeksforGeeks
+- AWS Certified Cloud Practitioner - Amazon Web Services
+- Microsoft Azure Fundamentals (AZ-900) - Microsoft
+- Oracle Certified Professional Java SE 17 Developer - Oracle
+- Building with the Claude API - Anthropic
+- Claude in Amazon Bedrock - Anthropic
+- Data Structures and Algorithms - GeeksforGeeks
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -182,7 +182,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -196,7 +196,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 📦 Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
@@ -224,7 +224,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 🔨 Currently Working On
+## Currently Working On
 
 - Building scalable Java & Spring Boot applications with microservices architecture
 - Exploring distributed systems and advanced system design patterns
@@ -233,7 +233,7 @@ My expertise spans backend engineering, distributed systems, cloud infrastructur
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
