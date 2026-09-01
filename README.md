@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there, I'm Pranith Varma
+# Pranith Varma
 
 ### Software Engineer | M.S. Computer Software Engineering @ SJSU
 
@@ -18,25 +18,25 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
+## About Me
 
 I'm a **Master's student in Computer Software Engineering** at **San José State University** and a **Software Development Engineer** with a passion for building robust, scalable systems. 
 
-My expertise spans **backend engineering**, **distributed systems**, **cloud infrastructure**, and **machine learning**. I believe the best software isn't just functional—it's elegant, maintainable, and solves real problems with precision.
+My expertise spans backend engineering, distributed systems, cloud infrastructure, and machine learning. I believe the best software isn't just functional—it's elegant, maintainable, and solves real problems with precision.
 
-- 🔭 Currently working on: Scalable Java microservices & distributed systems
-- 🌱 Learning: Advanced System Design & Large Language Models
-- 👯 Looking to collaborate on: Open-source backend projects
-- 💬 Ask me about: Spring Boot, Distributed Systems, or Formula 1 🏎️
-- ⚡ Fun fact: I can sing the entire "Super Max" anthem after every race!
+- **Currently working on:** Scalable Java microservices & distributed systems
+- **Learning:** Advanced System Design & Large Language Models
+- **Looking to collaborate on:** Open-source backend projects
+- **Ask me about:** Spring Boot, Distributed Systems, or Formula 1
+- **Fun fact:** I'm a huge Formula 1 enthusiast and Max Verstappen fan
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🚀 Backend Frameworks
+### Backend Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -54,7 +54,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -62,15 +62,14 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,7 +78,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -89,47 +88,47 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Professional Experience
+## Experience
 
-### **Software Development Engineer Intern** 
+### Software Development Engineer Intern
 **UST** | *Feb 2026 - Jun 2026*
-- Developed RESTful **Java Spring Boot** microservices and **React** frontend for healthcare billing system
+- Developed RESTful Java Spring Boot microservices and React frontend for healthcare billing system
 - Optimized complex SQL queries and implemented asynchronous data processing, improving scalability and response times
 - Delivered enterprise-grade features across full SDLC using Agile methodologies
 
-### **Software Engineer Intern**
+### Software Engineer Intern
 **Aster Digital Health, Aster DM Healthcare** | *Jul 2025 - Feb 2026*
-- Designed scalable RESTful APIs and microservices using **Python (FastAPI)** and **Node.js**, serving 10,000+ daily requests
-- Built interactive **React.js** dashboards for real-time patient data visualization, improving decision-making efficiency by 25%
-- Automated CI/CD pipelines using **Docker**, **GitHub Actions**, and **AWS**, reducing deployment time by 40%
+- Designed scalable RESTful APIs and microservices using Python (FastAPI) and Node.js, serving 10,000+ daily requests
+- Built interactive React.js dashboards for real-time patient data visualization, improving decision-making efficiency by 25%
+- Automated CI/CD pipelines using Docker, GitHub Actions, and AWS, reducing deployment time by 40%
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="30" height="30" /> Education
+## Education
 
-### **San José State University**
+### San José State University
 **M.S. Computer Software Engineering** | *Aug 2026 - May 2028*
-- **Relevant Coursework:** Distributed Systems, Machine Learning, Data Mining, Enterprise Software Design
+- Relevant Coursework: Distributed Systems, Machine Learning, Data Mining, Enterprise Software Design
 
-### **Lovely Professional University**
+### Lovely Professional University
 **B.Tech Computer Science** | *GPA: 3.1/4.0* | *Aug 2021 - May 2025*
-- **Relevant Coursework:** Data Structures & Algorithms, Databases, Object-Oriented Programming, Web Development
+- Relevant Coursework: Data Structures & Algorithms, Databases, Object-Oriented Programming, Web Development
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Highlight%20Pencil.png" alt="Highlight Pencil" width="30" height="30" /> Featured Projects
+## Featured Projects
 
-### [Distributed Key-Value Store](https://github.com/pranith27/Distributed-Key-Value-Store)
+### Distributed Key-Value Store
 **Go + HashiCorp Raft** | *Jan 2025 - Apr 2024*
-- Built fault-tolerant distributed KV store implementing **Raft Consensus Algorithm** for leader election and log replication
+- Built fault-tolerant distributed KV store implementing Raft Consensus Algorithm for leader election and log replication
 - Designed gRPC/HTTP APIs with TTL support and BoltDB persistence for strong consistency
 - Containerized with Docker with sub-5-second recovery during node failures
 
-### [Fine-Tuned LLM Classifier](https://github.com/pranith27/Fine-Tuned-Llama)
+### Fine-Tuned LLM Classifier
 **Python + LoRA + Hugging Face**
-- Fine-tuned **Llama 3.2** using LoRA/QLoRA techniques with 90% cost reduction
-- Deployed **Gradio** web app for real-time inference with 90%+ accuracy
-- Packaged with **Docker** and deployed to AWS/GCP demonstrating MLOps workflow
+- Fine-tuned Llama 3.2 using LoRA/QLoRA techniques with 90% cost reduction
+- Deployed Gradio web app for real-time inference with 90%+ accuracy
+- Packaged with Docker and deployed to AWS/GCP demonstrating MLOps workflow
 
 ### Healthcare Billing Platform
 **Java + Spring Boot + React + SQL**
@@ -139,7 +138,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Certifications
+## Certifications
 
 - **AWS Certified Cloud Practitioner** - Amazon Web Services
 - **Microsoft Azure Fundamentals (AZ-900)** - Microsoft
@@ -149,7 +148,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -173,7 +172,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" /> Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -187,7 +186,7 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Folder.png" alt="Folder" width="30" height="30" /> Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
@@ -215,33 +214,16 @@ My expertise spans **backend engineering**, **distributed systems**, **cloud inf
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> What I'm Currently Working On
+## Currently Working On
 
-- Building scalable **Java & Spring Boot** applications with microservices architecture
-- Exploring **distributed systems** and advanced system design patterns
-- Improving **machine learning** and **LLM** projects with production-grade deployment
+- Building scalable Java & Spring Boot applications with microservices architecture
+- Exploring distributed systems and advanced system design patterns
+- Improving machine learning and LLM projects with production-grade deployment
 - Contributing to open-source projects in the backend ecosystem
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Juggling.png" alt="Man Juggling" width="30" height="30" /> Outside of Coding
-
-When I'm not coding, you'll find me:
-
-- 🏎️ Obsessed with **Formula 1** (Max Verstappen fan 🦁)
-- 🎵 Singing **"Max Max Max Super Max!"** after every race weekend
-- 📚 Reading about system architecture and emerging technologies
-- 🎮 Playing strategy games that require critical thinking
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="30" height="30" /> Philosophy
-
-> *"Great software isn't just about writing code—it's about solving problems with simplicity, reliability, and attention to detail."*
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Inbox Tray" width="30" height="30" /> Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -263,7 +245,7 @@ When I'm not coding, you'll find me:
 
 <div align="center">
 
-### Thanks for stopping by! 
+### Thanks for stopping by!
 
 *"Code with curiosity. Build with purpose."* 🚀
 
